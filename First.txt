@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 This is the First.txt and this the first change.
+=======
+hi i am umair
+
+new changes
+>>>>>>> test
